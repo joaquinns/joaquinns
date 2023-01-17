@@ -14,6 +14,7 @@ Hi, i'm a front-end developer from Venezuela
 * PostgreSQL
 * MongoDB 
 * Express
+* Typescript
 
 ## Contact
 
